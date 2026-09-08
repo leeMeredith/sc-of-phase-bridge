@@ -6,7 +6,7 @@ to share one clock over OSC — no middleman, no glue framework, nothing hidden.
 SuperCollider owns time. openFrameworks owns the screen and the interaction.
 They agree on exactly two messages. That's the whole thing.
 
-![demo](docs/demo.gif)
+![phaseBridge](Screenshot_phaseBridge.png)
 
 ## Why this exists
 
