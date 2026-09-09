@@ -1,5 +1,8 @@
 # SC ↔ OF Phase Bridge
 
+> **Now available as an openFrameworks addon:** [ofxScPhaseBridge](https://github.com/leeMeredith/ofxScPhaseBridge)
+> — same bridge, packaged for easy install and listed on ofxAddons. New work happens there.
+
 A minimal, honest example of getting **SuperCollider** and **openFrameworks**
 to share one clock over OSC — no middleman, no glue framework, nothing hidden.
 
